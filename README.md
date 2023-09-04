@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishu302
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning phython and MySQL
+- 🌱 I’m currently learning Python and MySQL
   
 
 <!---
